@@ -1,7 +1,8 @@
 PATH
-  remote: .
-  specs:
-    hakiri (0.7.0)
+  remote: 
+.
+specs:
+    hakiri (0.7)
       activesupport
       bundler
       commander
